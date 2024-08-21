@@ -16,4 +16,8 @@ For a tutorial on how to set up the LCD1602, follow these instructions.
 <br>Once set up, opne Arduino IDE. Go to File -> New Sketch. Then paste the code from the .ino file and click upload.
 
 # Result
-Todo: add video of working result
+
+
+https://github.com/user-attachments/assets/0c37537f-4c8b-44b2-8dac-fedf4a1dd606
+
+
